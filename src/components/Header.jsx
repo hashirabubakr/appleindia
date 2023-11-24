@@ -25,7 +25,7 @@ function Header() {
             <Nav.Link className='ms-5' href="#">iPhone</Nav.Link>
             <Nav.Link className='ms-5' href="#">Watch</Nav.Link>
             <Nav.Link className='ms-5' href="#">AirPods</Nav.Link>
-            <Nav.Link className='ms-5' href="#">TV & Home</Nav.Link>
+            <Nav.Link className='ms-5' href="#">TV&Home</Nav.Link>
             <Nav.Link className='ms-5' href="#">Entertainment</Nav.Link>
             <Nav.Link className='ms-5' href="#">Accessories</Nav.Link>
             <Nav.Link className='ms-5' href="#">Support</Nav.Link>
