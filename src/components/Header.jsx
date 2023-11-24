@@ -24,10 +24,10 @@ function Header() {
             <Nav.Link className='ms-5' href="#">iPhone</Nav.Link>
             <Nav.Link className='ms-5' href="#">Watch</Nav.Link>
             <Nav.Link className='ms-5' href="#">AirPods</Nav.Link>
-            <Nav.Link className='ms-5' href="#">TV&Home</Nav.Link>
-            <Nav.Link className='ms-5' href="#">Entertainment</Nav.Link>
-            <Nav.Link className='ms-5' href="#">Accessories</Nav.Link>
-            <Nav.Link className='ms-5' href="#">Support</Nav.Link>
+            <Nav.Link className='ms-4' href="#">TV&Home</Nav.Link>
+            <Nav.Link className='ms-4' href="#">Entertainment</Nav.Link>
+            <Nav.Link className='ms-4' href="#">Accessories</Nav.Link>
+            <Nav.Link className='ms-4 me-3' href="#">Support</Nav.Link>
              </Navbar.Collapse>
              <Nav.Link href="#"><i className="fa-solid fa-search"></i></Nav.Link>
             <Nav.Link className='ms-5 me-5' href="#"><i className="fa-solid fa-bag-shopping me-5"></i></Nav.Link>
